@@ -32,3 +32,38 @@ Yes. I searched Google and compared the information with other definitions and a
 
 **How trustworthy was the result?**  
 I believe the information is trustworthy because it matched what I found when I searched Google and looked at other sources. I still think information from AI and even some websites should be double-checked because some information can be old or missing details. Based on the research I did, I believe the information is accurate.
+
+### 2. Why do organizations use CRM systems?
+
+#### Sales Management
+
+Organizations use CRM systems to help manage sales activities. Sales teams can track potential customers, follow up on leads, monitor sales progress, and keep records of customer interactions. This helps businesses stay organized and improve their sales process.
+
+#### Customer Management
+
+CRM systems help businesses keep customer information in one place. Employees can quickly access contact details, communication history, and customer needs. This makes it easier to build strong relationships with customers and provide better service.
+
+#### Marketing
+
+Many organizations use CRM systems to support marketing efforts. CRM software can help track marketing campaigns, organize customer groups, and measure campaign results. This helps businesses understand which marketing strategies are working.
+
+#### Customer Support
+
+CRM systems help customer support teams manage customer questions and issues. Employees can track support requests, view customer history, and respond more quickly. This can improve customer satisfaction and overall service quality.
+
+#### Reporting and Analytics
+
+CRM systems can generate reports and provide useful data about customers, sales, and business performance. These reports help managers make better decisions and identify areas that need improvement.
+
+#### Reflection
+
+**AI Tool Used:** ChatGPT
+
+**Was the response complete?**  
+Yes. ChatGPT provided information about the main reasons organizations use CRM systems, including sales, customer management, marketing, support, and reporting.
+
+**Did you verify the information?**  
+Yes. I searched Google and reviewed information from CRM-related websites and articles. The information was similar across different sources.
+
+**How trustworthy was the result?**  
+I believe the information is trustworthy because it matched what I found during my research. I still think information from AI and websites should be checked because information can change over time. Based on the sources I reviewed, the information seemed accurate.
