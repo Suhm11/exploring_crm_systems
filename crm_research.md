@@ -170,4 +170,31 @@ How trustworthy was the result?
 
 I believe the information is trustworthy because it matched what I found when I searched Google and looked at other sources. I still think information from AI and websites should be double-checked because some information can be old or missing details. Based on the research I did, I believe the information is accurate.
 
+Part 2: AI-Assisted CRM Product Comparison
+
+Commercial CRM Products
+
+| Product | Who Uses It | Good Things | Bad Things | Pricing |
+|----------|----------|----------|----------|----------|
+| Salesforce | Medium and large businesses | Lots of features and tools | Can be expensive and hard to learn | Monthly subscription |
+| HubSpot CRM | Small and medium businesses | Easy to use and has a free version | Some useful features cost extra | Free and paid plans |
+| Zoho CRM | Small and medium businesses | Lower cost and customizable | Can feel confusing at first | Monthly subscription |
+| Microsoft Dynamics 365 CRM | Medium and large businesses | Works well with Microsoft products | Can take time to learn | Monthly subscription |
+
+Reflection
+
+AI Tool Used: ChatGPT
+
+Was the response complete?
+
+Yes. ChatGPT gave information about several commercial CRM systems and explained who they are made for along with some advantages and disadvantages.
+
+Did you verify the information?
+
+Yes. I searched Google and looked at CRM websites and comparison articles. The information was mostly the same across the different sources I found.
+
+How trustworthy was the result?
+
+I believe the information is trustworthy because it matched what I found when I searched Google and looked at other sources. I still think information from AI and websites should be double-checked because some information can be old or missing details. Based on the research I did, I believe the information is accurate.
+
 
