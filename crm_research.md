@@ -170,16 +170,14 @@ How trustworthy was the result?
 
 I believe the information is trustworthy because it matched what I found when I searched Google and looked at other sources. I still think information from AI and websites should be double-checked because some information can be old or missing details. Based on the research I did, I believe the information is accurate.
 
-Part 2: AI-Assisted CRM Product Comparison
-
 Commercial CRM Products
 
-| Product | Who Uses It | Good Things | Bad Things | Pricing |
-|----------|----------|----------|----------|----------|
-| Salesforce | Medium and large businesses | Lots of features and tools | Can be expensive and hard to learn | Monthly subscription |
-| HubSpot CRM | Small and medium businesses | Easy to use and has a free version | Some useful features cost extra | Free and paid plans |
-| Zoho CRM | Small and medium businesses | Lower cost and customizable | Can feel confusing at first | Monthly subscription |
-| Microsoft Dynamics 365 CRM | Medium and large businesses | Works well with Microsoft products | Can take time to learn | Monthly subscription |
+| Product                    | Who Uses It                 | Good Things                        | Bad Things                         | Pricing              |
+| -------------------------- | --------------------------- | ---------------------------------- | ---------------------------------- | -------------------- |
+| Salesforce                 | Medium and large businesses | Lots of features and tools         | Can be expensive and hard to learn | Monthly subscription |
+| HubSpot CRM                | Small and medium businesses | Easy to use and has a free version | Some useful features cost extra    | Free and paid plans  |
+| Zoho CRM                   | Small and medium businesses | Lower cost and customizable        | Can feel confusing at first        | Monthly subscription |
+| Microsoft Dynamics 365 CRM | Medium and large businesses | Works well with Microsoft products | Can take time to learn             | Monthly subscription |
 
 Reflection
 
@@ -187,7 +185,7 @@ AI Tool Used: ChatGPT
 
 Was the response complete?
 
-Yes. ChatGPT gave information about several commercial CRM systems and explained who they are made for along with some advantages and disadvantages.
+Yes. ChatGPT gave information about several commercial CRM systems and explained who they are for along with some advantages and disadvantages.
 
 Did you verify the information?
 
@@ -197,4 +195,45 @@ How trustworthy was the result?
 
 I believe the information is trustworthy because it matched what I found when I searched Google and looked at other sources. I still think information from AI and websites should be double-checked because some information can be old or missing details. Based on the research I did, I believe the information is accurate.
 
+Open Source CRM Products
+
+| Product  | Main Features                             | Technology Used       | Community Support      | Installation |
+| -------- | ----------------------------------------- | --------------------- | ---------------------- | ------------ |
+| SuiteCRM | Contacts, leads, reports, marketing tools | PHP and MySQL         | Large community        | Medium       |
+| EspoCRM  | Contacts, leads, tasks, reports           | PHP and MySQL         | Good community support | Easy         |
+| Odoo CRM | Sales tracking, leads, dashboards         | Python and PostgreSQL | Very large community   | Medium       |
+
+Reflection
+
+AI Tool Used: ChatGPT
+
+Was the response complete?
+
+Yes. ChatGPT provided information about several open-source CRM systems, including their features, technology, community support, and installation difficulty.
+
+Did you verify the information?
+
+Yes. I searched Google and looked at product websites and comparison articles. The information was mostly the same across the different sources I found.
+
+How trustworthy was the result?
+
+I believe the information is trustworthy because it matched what I found when I searched Google and looked at other sources. I still think information from AI and websites should be double-checked because some information can be old or missing details. Based on the research I did, I believe the information is accurate.
+
+Analysis
+
+Which commercial CRM appears most popular?
+
+Based on my research, Salesforce appears to be the most popular commercial CRM. Many businesses use it because it has a large number of features and can work for companies of different sizes.
+
+Which open-source CRM appears most mature?
+
+SuiteCRM appears to be the most mature open-source CRM. It has been around for many years, has a large user community, and includes many features that businesses commonly need.
+
+Which CRM would you recommend for a small business?
+
+I would recommend HubSpot CRM for a small business. It is easy to use, has a free version, and includes enough features for many small companies.
+
+Which CRM would you recommend for a large enterprise?
+
+I would recommend Salesforce for a large enterprise. It offers many advanced features, supports large organizations, and can be customized to fit different business needs.
 
