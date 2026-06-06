@@ -55,15 +55,18 @@ CRM systems help customer support teams manage customer questions and issues. Em
 
 CRM systems can generate reports and provide useful data about customers, sales, and business performance. These reports help managers make better decisions and identify areas that need improvement.
 
-#### Reflection
+Reflection
 
-**AI Tool Used:** ChatGPT
+AI Tool Used: ChatGPT
 
-**Was the response complete?**  
-Yes. ChatGPT provided information about the main reasons organizations use CRM systems, including sales, customer management, marketing, support, and reporting.
+Was the response complete?
 
-**Did you verify the information?**  
-Yes. I searched Google and reviewed information from CRM-related websites and articles. The information was similar across different sources.
+Yes. ChatGPT explained the main reasons organizations use CRM systems and gave enough information about sales, customer management, marketing, customer support, and reporting.
 
-**How trustworthy was the result?**  
-I believe the information is trustworthy because it matched what I found during my research. I still think information from AI and websites should be checked because information can change over time. Based on the sources I reviewed, the information seemed accurate.
+Did you verify the information?
+
+Yes. I searched Google and looked at a few websites that explained CRM systems. The information was mostly the same across the different sources I found.
+
+How trustworthy was the result?
+
+I believe the information is trustworthy because it matched what I found when I searched Google and looked at other sources. I still think information from AI and websites should be double-checked because some information can be old or missing details. Based on the research I did, I believe the information is accurate.
