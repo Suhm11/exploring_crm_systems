@@ -239,5 +239,48 @@ Which CRM would you recommend for a large enterprise?
 
 For a large enterprise, Salesforce appears to be a strong option because it has many advanced features and can support larger organizations with more complex needs.
 
+Part 3: Open Source CRM Exploration
+
+Selected CRM
+
+For this part of the assignment, I explored EspoCRM using the public online demo environment.
+
+Installation Experience
+
+Was installation easy?
+
+Since I used the online demo version of EspoCRM, there was no installation required. I was able to access the CRM directly through a web browser and begin exploring its features immediately.
+
+What challenges occurred?
+
+The biggest challenge was finding all of the required modules for the assignment. Some features were organized in different menus, so it took some time to locate the Contacts, Leads, Opportunities, and reporting-related sections.
+
+How did AI help?
+
+ChatGPT helped me understand what CRM modules I should look for and explained the purpose of different sections within the system. It also helped me determine which screens would meet the assignment requirements.
+
+Product Experience
+
+What features impressed you?
+
+One feature that impressed me was the Opportunities module. It displayed sales opportunities in different stages, making it easy to see the progress of potential deals. I also liked the Contacts and Leads modules because they organized customer information in a clear and simple way. The dashboard provided a useful overview of activities and tasks.
+
+What features were missing?
+
+The demo version did not appear to provide access to every advanced feature that might be available in a full installation. I also did not see as many built-in reporting options as some larger commercial CRM systems offer.
+
+Would you use it in a real organization?
+
+Yes, I would consider using EspoCRM in a real organization, especially for a small or medium-sized business. It appears easy to use, includes the most important CRM features, and is open source. Larger organizations may need additional advanced features, but for many businesses EspoCRM would be a practical and cost-effective solution.
+
+Screenshots Included
+
+* Login Screen
+* Dashboard
+* Contacts Module
+* Leads Module
+* Reports/Analytics View
+
+
 
 
