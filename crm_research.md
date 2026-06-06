@@ -74,3 +74,100 @@ How trustworthy was the result?
 
 I believe the information is trustworthy because it matched what I found when I searched Google and looked at other sources. I still think information from AI and websites should be double-checked because some information can be old or missing details. Based on the research I did, I believe the information is accurate.
 
+3. What business problems do CRM systems solve?
+
+Retail
+
+CRM systems help retail businesses keep track of customers, purchases, and shopping habits. This helps stores understand what customers like and send promotions that match their interests. CRM systems can also help improve customer service and keep customers coming back.
+
+Healthcare
+
+In healthcare, CRM systems help manage patient information and communication. Hospitals and clinics can keep track of appointments, follow-ups, and patient questions. This helps improve communication and provide better patient care.
+
+Education
+
+Schools and colleges use CRM systems to manage student information and communication. CRM systems can help track student inquiries, admissions, enrollment, and support services. This helps schools stay organized and respond to students more efficiently.
+
+Manufacturing
+
+Manufacturing companies use CRM systems to manage customer orders, sales opportunities, and business relationships. CRM systems help employees keep track of customer needs and communicate more effectively with clients and suppliers.
+
+Nonprofits
+
+Nonprofit organizations use CRM systems to manage donor information, fundraising activities, and volunteer records. This helps organizations stay organized and build stronger relationships with donors and supporters.
+
+Reflection
+
+AI Tool Used: ChatGPT
+
+Was the response complete?
+
+Yes. ChatGPT explained how CRM systems are used in several industries and gave examples of the business problems they help solve.
+
+Did you verify the information?
+
+Yes. I searched Google and looked at information from different websites about CRM systems in retail, healthcare, education, manufacturing, and nonprofit organizations. The information was similar across the sources I found.
+
+How trustworthy was the result?
+
+I believe the information is trustworthy because it matched what I found when I searched Google and looked at other sources. I still think information from AI and websites should be double-checked because some information can be old or missing details. Based on the research I did, I believe the information is accurate.
+
+4. What are the major modules found in a CRM?
+
+Contacts
+
+The Contacts module stores customer information such as names, phone numbers, email addresses, and other details. It helps businesses keep customer information organized in one place.
+
+Accounts
+
+The Accounts module stores information about companies or organizations that do business with the company. This helps employees manage relationships with business customers.
+
+Leads
+
+The Leads module is used to track potential customers who may be interested in a product or service. Sales teams use this information to follow up and try to turn leads into customers.
+
+Opportunities
+
+The Opportunities module helps track possible sales deals. Employees can monitor the progress of sales opportunities and estimate future revenue.
+
+Activities
+
+The Activities module records meetings, phone calls, emails, and other interactions with customers. This helps employees keep track of communication history.
+
+Tasks
+
+The Tasks module helps users create reminders and manage work that needs to be completed. This helps employees stay organized and meet deadlines.
+
+Marketing Campaigns
+
+The Marketing Campaigns module helps businesses plan and track marketing efforts. It can be used to measure the success of promotions and advertising campaigns.
+
+Customer Support Tickets
+
+The Customer Support Tickets module helps businesses manage customer issues and requests. Support teams can track problems and make sure they are resolved.
+
+Reports
+
+The Reports module creates summaries and data reports about sales, customers, marketing, and other business activities. These reports help managers make better decisions.
+
+Dashboards
+
+The Dashboard module provides a quick overview of important information using charts, graphs, and key numbers. This allows users to see business performance at a glance.
+
+Reflection
+
+AI Tool Used: ChatGPT
+
+Was the response complete?
+
+Yes. ChatGPT explained the main modules found in CRM systems and described the purpose of each one.
+
+Did you verify the information?
+
+Yes. I searched Google and looked at CRM articles and product documentation. The modules listed by ChatGPT matched what I found in other sources.
+
+How trustworthy was the result?
+
+I believe the information is trustworthy because it matched what I found when I searched Google and looked at other sources. I still think information from AI and websites should be double-checked because some information can be old or missing details. Based on the research I did, I believe the information is accurate.
+
+
