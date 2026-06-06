@@ -6,7 +6,7 @@
 
 #### Definition
 
-CRM stands for Customer Relationship Management. It is a software that businesses use to keep track of customer information and interactions. A CRM system stores things like contact information, communication history, and sales activity in one place.
+CRM stands for Customer Relationship Management. It is software that businesses use to keep track of customer information and interactions. A CRM system stores things like contact information, communication history, and sales activity in one place.
 
 #### Purpose
 
@@ -24,11 +24,11 @@ Over the years, CRM systems have become much more advanced. Instead of only stor
 
 **AI Tool Used:** ChatGPT
 
-**Was the response complete?**
+**Was the response complete?**  
 Yes. ChatGPT provided enough information to explain the definition, purpose, history, and evolution of CRM systems.
 
-**Did you verify the information?**
+**Did you verify the information?**  
 Yes. I searched Google and compared the information with other definitions and articles about CRM systems. The information was consistent across multiple sources.
 
-**How trustworthy was the result?**
+**How trustworthy was the result?**  
 I believe the information is trustworthy because it matched what I found when I searched Google and looked at other sources. I still think information from AI and even some websites should be double-checked because some information can be old or missing details. Based on the research I did, I believe the information is accurate.
