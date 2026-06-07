@@ -12,7 +12,7 @@ This project explores Customer Relationship Management (CRM) systems using Gener
 
 ## AI Tools Used
 
-- ChatGPT
+ChatGPT
 
 ## CRM Research Findings
 
@@ -48,7 +48,7 @@ See prompts_used.md for details.
 
 ## Lessons Learned
 
-This project helped me learn what CRM systems are and how businesses use them to manage customer information and sales activities. I learned how to compare different CRM products, explore an open-source CRM system, and understand the basic structure of a CRM application. I also learned that AI can make research much faster, but important information should still be checked using other sources.
+This project helped me learn what CRM systems are and how businesses use them to manage customer information and sales activities. I learned how to compare different CRM products, explore an open-source CRM system, and understand the basic structure of a CRM application. I also learned that AI can make research faster, but important information should still be checked using other sources.
 
 ## References
 
