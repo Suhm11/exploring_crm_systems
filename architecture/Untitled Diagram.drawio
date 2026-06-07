@@ -1,0 +1,33 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="7FAWg_3yaIDsP3yc5PEA">
+    <mxGraphModel dx="1414" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-LvKV0wmgvFGhUZCKHHD-3" edge="1" parent="1" source="-LvKV0wmgvFGhUZCKHHD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="401" y="241" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-LvKV0wmgvFGhUZCKHHD-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" value="BROWSER" vertex="1">
+          <mxGeometry height="50" width="240" x="281" y="161" as="geometry" />
+        </mxCell>
+        <mxCell id="-LvKV0wmgvFGhUZCKHHD-7" edge="1" parent="1" source="-LvKV0wmgvFGhUZCKHHD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-LvKV0wmgvFGhUZCKHHD-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-LvKV0wmgvFGhUZCKHHD-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="HTML/CSS/JavaScript/jQuery/Bootstrap" vertex="1">
+          <mxGeometry height="50" width="240" x="281" y="241" as="geometry" />
+        </mxCell>
+        <mxCell id="-LvKV0wmgvFGhUZCKHHD-8" edge="1" parent="1" source="-LvKV0wmgvFGhUZCKHHD-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-LvKV0wmgvFGhUZCKHHD-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-LvKV0wmgvFGhUZCKHHD-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="PHP Application Layer" vertex="1">
+          <mxGeometry height="50" width="240" x="281" y="321" as="geometry" />
+        </mxCell>
+        <mxCell id="-LvKV0wmgvFGhUZCKHHD-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="MySQL Database" vertex="1">
+          <mxGeometry height="50" width="240" x="281" y="401" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
