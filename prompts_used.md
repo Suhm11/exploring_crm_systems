@@ -48,15 +48,15 @@ AI did a good job explaining CRM topics and comparing different CRM systems. It 
 
 What AI struggled with?
 
-Sometimes the answers were longer than necessary and included extra information that I did not need for the assignment. I had to shorten some of the responses.
+Sometimes the answers were longer than necessary and included extra information that I did not need for this assignment. I had to shorten some of the responses.
 
-What information required validation?
+What information required checking?
 
-Information about software features, pricing, and product details needed to be checked because these things can change over time.
+I double checked software features, pricing, and product details because this information can change over time.
 
 What surprised you?
 
-I was surprised by how quickly AI could explain CRM systems and compare different products. It saved a lot of time during research.
+I was surprised by how quickly AI could explain CRM systems and compare different products. It saved a lot of time during my research.
 
 What would you do differently next time?
 
@@ -64,4 +64,4 @@ Next time I would ask more detailed questions from the beginning so I could get 
 
 Would you trust AI for software research?
 
-I would use AI as a starting point for software research, but I would still check important information using other sources. AI is helpful for learning and research, but information should always be verified.
+I would use AI as a starting point for research, but I would still double check important information using other sources. AI is helpful for learning and research, but information should always be checked.
