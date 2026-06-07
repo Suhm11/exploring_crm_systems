@@ -289,7 +289,7 @@ If I were building a CRM system using HTML, CSS, JavaScript, jQuery, Bootstrap, 
 
 Authentication
 
-The authentication module would allow users to log in and log out of the system. It would help protect customer information and make sure only authorized users can access the CRM.
+The authentication module would allow users to log in and log out of the system. It would help protect customer information and make sure only approved users can access the CRM.
 
 Contacts
 
@@ -301,7 +301,7 @@ The leads module would store information about potential customers who may be in
 
 Opportunities
 
-The opportunities module would help sales teams track possible sales and monitor their progress.
+The opportunities module would help sales teams track possible sales and keep track of their progress.
 
 Tasks
 
@@ -309,7 +309,7 @@ The tasks module would allow users to create reminders and keep track of work th
 
 Reports
 
-The reports module would generate reports about customers, sales activities, and overall business performance.
+The reports module would create reports about customers, sales activities, and sales performance.
 
 Reflection
 
@@ -337,7 +337,7 @@ Stores login information and user account details.
 
 Roles
 
-Stores user roles and permissions.
+Stores user roles and access rights.
 
 Contacts
 
@@ -395,7 +395,7 @@ Chart.js helps create charts and graphs that can be used in dashboards and repor
 
 PHPMailer
 
-PHPMailer allows a PHP application to send emails.
+PHPMailer helps a PHP website send emails.
 
 Composer
 
@@ -441,7 +441,7 @@ User input should be checked before being displayed on web pages.
 
 Data Privacy
 
-Customer information should only be available to authorized users.
+Customer information should only be available to approved users.
 
 Reflection
 
@@ -449,7 +449,7 @@ AI Tool Used: ChatGPT
 
 Was the response complete?
 
-Yes. ChatGPT covered the major security topics that should be considered when building a CRM system.
+Yes. ChatGPT covered the main security topics that should be considered when building a CRM system.
 
 Did you verify the information?
 
@@ -475,7 +475,7 @@ Task management
 
 Basic reports
 
-Version 1 would focus on the most important CRM features needed to manage customers and sales information. Additional features could be added later as the system grows.
+Version 1 would focus on the most important CRM features needed to manage customers and sales information. More features could be added later if needed.
 
 Reflection
 
@@ -495,21 +495,17 @@ I believe the information is trustworthy because these features are commonly inc
 
 Architecture Diagram
 
-The CRM system could follow this simple design:
+The CRM system could follow this simple structure:
 
 Browser
 
-|
-
-HTML / CSS / JavaScript / jQuery / Bootstrap
-
-|
+HTML, CSS, JavaScript, jQuery, Bootstrap
 
 PHP Application Layer
 
-|
-
 MySQL Database
+
+This design allows users to use the CRM through a web browser. The front-end handles what users see, PHP handles the application logic, and MySQL stores the data.
 
 Reflection
 
@@ -526,6 +522,7 @@ Yes. I compared the architecture with examples of basic web applications.
 How trustworthy was the result?
 
 I believe the information is trustworthy because this is a common structure used in many web applications.
+
 
 
 
